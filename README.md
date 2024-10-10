@@ -65,7 +65,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ---
 
 <p align="center">
-  Hecho con ❤️ por [Luis Suarez]
+  Hecho con ❤️ por Luis Suarez
 </p>
 
 <p align="center">
